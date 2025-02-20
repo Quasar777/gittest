@@ -1,1 +1,3 @@
-console.log('sex')
+console.log("sex")
+
+console.dir("sex")
