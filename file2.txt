@@ -1,2 +1,4 @@
 text in file2
 hello from nano
+
+another changes..
