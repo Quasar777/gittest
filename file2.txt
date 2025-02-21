@@ -1,4 +1,5 @@
 text in file2
 hello from nano
 
-this file was modified in master branch
+another changes..
+
